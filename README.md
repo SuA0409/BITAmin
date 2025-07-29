@@ -11,6 +11,7 @@ https://drive.google.com/drive/folders/1iqBpWPrZZYVh026hchbX63BYHwWBbTYN?usp=sha
    [data] github/computer vision/kaggle AnimalCLEF2025 @ CVPR-FGVC & LifeCLEF/animal-clef-2025.zip
 
    [accepted working note] https://www.dei.unipd.it/~faggioli/temp/clef2025/paper_245.pdf
+   https://www.dei.unipd.it/~faggioli/temp/clef2025/
 
    [fork] dongyeon1031/AnimalCLEF2025
 3. 2025년 식의약 공공데이터 분석·활용 경진대회
