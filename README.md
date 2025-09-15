@@ -20,7 +20,10 @@ https://drive.google.com/drive/folders/1iqBpWPrZZYVh026hchbX63BYHwWBbTYN?usp=sha
 
    [submitted materials] https://drive.google.com/drive/folders/1Sa7bJXCApKG5zLwe-OBotRLeNSLJI6NJ?usp=sharing
 ## data analysis (2025. 07 ~2025.08 _2 months)
-WORK IN PROGRESS ...
+
+   [link] https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
+   
+   [data] github/data analysis/data_analysis_presentation.pdf
 
 ## 16 recruiting
 [data] github/16 recruiting/data
