@@ -3,7 +3,7 @@ https://drive.google.com/drive/folders/1iqBpWPrZZYVh026hchbX63BYHwWBbTYN?usp=sha
 ## time series (2025. 01 ~2025. 02 _2 months)
 [data] github/time series/주요국 통화의 대원화환율_06183901.csv
 
-## computer vision (2025. 03 ~2025.08 _6 months)
+## computer vision(CV) (2025. 03 ~2025.08 _6 months)
 1. kaggle AnimalCLEF2025 @ CVPR-FGVC & LifeCLEF
 
    [link] https://www.kaggle.com/competitions/animal-clef-2025/overview
@@ -14,16 +14,21 @@ https://drive.google.com/drive/folders/1iqBpWPrZZYVh026hchbX63BYHwWBbTYN?usp=sha
    https://www.dei.unipd.it/~faggioli/temp/clef2025/
 
    [fork] dongyeon1031/AnimalCLEF2025
-3. 2025년 식의약 공공데이터 분석·활용 경진대회
+2. 2025년 식의약 공공데이터 분석·활용 경진대회
    
    [link] https://data.mfds.go.kr/OPHAA01F01/cntsDetailView1?cntsSeq=7&tab=1
 
    [submitted materials] https://drive.google.com/drive/folders/1Sa7bJXCApKG5zLwe-OBotRLeNSLJI6NJ?usp=sharing
+   
 ## data analysis (2025. 07 ~2025.08 _2 months)
 
    [link] https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
    
    [data] github/data analysis/data_analysis_presentation.pdf
 
+## natural language processing(NLP) (2025.09 ~2025.12 _4 months)
+
+   Work in progress..
+   
 ## 16 recruiting
 [data] github/16 recruiting/data
